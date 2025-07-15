@@ -1,4 +1,4 @@
-1. PlantCo. Gross Profit Performance Dashboard:
+1.PlantCo. Gross Profit Performance Dashboard:
 
 An interactive Power BI dashboard developed to analyze and monitor gross profit trends across PlantCo’s regional markets and product categories—enabling faster, data-driven business decisions and financial optimization.
 
