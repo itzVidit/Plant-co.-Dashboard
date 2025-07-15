@@ -33,22 +33,23 @@ To build an interactive, executive-ready dashboard that tracks gross profit perf
 6.💡 Features & Highlights
 
 🔹 Key Visuals & Interactions
-Dynamic KPI Cards
+
+1- Dynamic KPI Cards
 Present key financial metrics and performance changes over time, enabling quick understanding of profitability trends.
 
-Bottom 10 Country Tree Map
+2- Bottom 10 Country Tree Map
 Highlights the countries contributing least to gross profit, helping to prioritize strategic interventions.
 
-YTD vs PYTD Gross Profit Delta (Bar Chart)
+3- YTD vs PYTD Gross Profit Delta (Bar Chart)
 Month-wise comparison of gross profit changes by region and product, identifying seasonal drops and growth areas.
 
-Product Performance Breakdown (Stacked Bar + Line Chart)
+4- Product Performance Breakdown (Stacked Bar + Line Chart)
 Visualizes the contribution of different product types alongside prior year benchmarks.
 
-Profitability Segmentation (Scatter Plot)
+5- Profitability Segmentation (Scatter Plot)
 Plots accounts based on gross margin % and value to identify low-margin, high-value opportunities or risks.
 
-Filter Panel
+6- Filter Panel
 Users can filter by year, product type, region, and view type (quantity, sales, profit) to conduct focused analysis.
 
 7.💼 Business Impact & Outcomes
