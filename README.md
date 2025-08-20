@@ -1,59 +1,54 @@
-1.🌱 PlantCo Gross Profit Performance Dashboard:
+# 📈 **PlantCo Gross Profit Performance Dashboard**
 
-An interactive Power BI dashboard developed to analyze and monitor gross profit trends across PlantCo’s regional markets and product categories—enabling faster, data-driven business decisions and financial optimization.
+---
 
-2.🔍 Project Purpose:
+## 🔍 **Project Purpose**
 
-This dashboard empowers finance and strategy teams to assess performance based on key financial metrics such as Gross Revenue, Cost of Goods Sold (COGS), Gross Profit, and Gross Profit Margin (GP%) across time, product types, and regions. It enables leadership to quickly identify gaps, uncover opportunities, and optimize profitability through interactive analysis.
+This interactive **Power BI dashboard** was built to help **PlantCo's finance and strategy teams** analyze and monitor **gross profit trends** across different regions and product categories. It enables **faster, data-driven decisions** by providing key financial metrics like **Gross Revenue**, **Cost of Goods Sold (COGS)**, **Gross Profit**, and **Gross Profit Margin (GP%)**. The ultimate goal is to identify performance gaps, uncover opportunities, and **optimize profitability** through interactive analysis.
 
-3.🛠 Tech Stack:
+---
 
-Built using the following tools and technologies:
+## 🛠 **Tech Stack**
 
-📊 Power BI Desktop – Primary tool for building interactive reports and visuals.
+The dashboard was developed using a robust set of tools and technologies:
 
-📂 Power Query – Used for data transformation, cleaning, and shaping.
+* **Power BI Desktop**: The primary tool for building interactive reports and visuals.
+* **Power Query**: Used for data transformation, cleaning, and shaping.
+* **DAX (Data Analysis Expressions)**: Utilized to create powerful calculated measures including **YTD**, **PYTD**, and **Gross Margin %**.
+* **Data Modeling**: A **star schema model** was implemented with relationships between key dimension tables (date, product, and region).
+* **File Format**: A **.pbit template** was used for easy deployment and reuse.
 
-🧠 DAX (Data Analysis Expressions) – Developed calculated measures including YTD, PYTD, Gross Profit, Gross Margin %, and deltas.
+---
 
-🧮 Data Modeling – Star schema model with relationships between date, product, and region dimension tables.
+## 📊 **Data Source**
 
-📁 File Format – .pbit template for easy deployment and reuse.
+The dashboard is powered by a **simulated Excel dataset** representing financial performance for the fictional company, **PlantCo**. This data includes revenue, COGS, product categories, regional performance, and account-level details, all prepared for analysis using **Power Query**.
 
-4.📊 Data Source:
+---
 
-Simulated Excel dataset representing financial performance data for the fictional company PlantCo.
-It includes revenue, COGS, product categories, regional performance, and account-level details, prepared for analysis using Power Query in Power BI.
+## 🎯 **Goal of the Dashboard**
 
-5.🎯 Goal of the Dashboard:
+The core objective was to create an **executive-ready dashboard** that tracks **gross profit performance** over time, by region, and by product category. It allows for **real-time comparison** with prior periods, highlights **underperforming segments**, and supports quicker strategic decisions.
 
-To build an interactive, executive-ready dashboard that tracks gross profit performance across time, regions, and product categories—enabling real-time comparison with prior periods, highlighting underperforming segments, and supporting faster strategic decisions.
+---
 
-6.💡 Features & Highlights:
+## 💡 **Features & Highlights**
 
-🔹 Key Visuals & Interactions-
+The dashboard is packed with dynamic visuals and interactive features:
 
-a. Dynamic KPI Cards:
-Present essential financial metrics such as Gross Revenue, COGS, Gross Profit, and Gross Margin %, with built-in comparisons to prior periods for real-time performance tracking.
+* **Dynamic KPI Cards**: Displays crucial financial metrics with **built-in comparisons to prior periods**.
+* **Bottom 10 Country Tree Map**: **Highlights countries contributing the least to gross profit**, helping to focus strategic efforts.
+* **YTD vs PYTD Gross Profit Delta (Bar Chart)**: Enables **clear month-by-month and year-over-year comparisons** to uncover seasonal trends.
+* **Product Performance Breakdown**: Illustrates the performance of different product types over time, benchmarked against the **previous year**.
+* **Profitability Segmentation (Scatter Plot)**: Offers a visual breakdown of accounts by **Gross Profit %** and value, showing high-volume vs. low-margin clients.
+* **Interactive Filter Panel**: Allows users to customize their analysis by filtering by **Year**, **Product Type**, and **Region**.
 
-b. Bottom 10 Country Tree Map:
-Highlights the countries contributing the least to gross profit, helping identify regions that require immediate strategic focus.
+---
 
-c. YTD vs PYTD Gross Profit Delta (Bar Chart):
-Enables clear month-wise and year-over-year comparison of gross profit trends, helping uncover seasonal patterns and performance shifts.
+## 💼 **Business Impact & Outcomes**
 
-d. Product Performance Breakdown (Stacked Bar + Line Chart):
-Illustrates performance of different product types over time, benchmarked against the previous year for comparative analysis.
+The dashboard has significantly impacted PlantCo's operations by replacing static reports with **dynamic insights**. It helped the company to swiftly identify profit declines, isolate underperforming regions, and shift focus to **high-margin products**. This directly supported **margin optimization** and improved strategic alignment across teams.
 
-e. Profitability Segmentation (Scatter Plot):
-Plots accounts by Gross Profit % and value, offering a visual breakdown of high-volume vs. low-margin clients.
-
-f. Interactive Filter Panel:
-Allows users to filter by Year, Product Type, Region, and View Type (Sales, Quantity, Profit) to customize and refine their analysis.
-
-7.💼 Business Impact & Outcomes:
-
-The dashboard helped PlantCo swiftly identify profit declines, isolate underperforming regions, and shift focus to high-margin products. It replaced static reports with dynamic insights, improved strategic alignment across teams, and directly supported margin optimization and resource reallocation efforts.
 
 8.Screenshot/Demo:
 
